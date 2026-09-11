@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- **React Native Developer** at [Friendzone Solutions](https://friendzonesolutions.com) with 4+ years of experience
+- **React Native Developer** at [Mtechub LLC](https://mtechub.com) with 4+ years of experience
 - Building production-ready mobile applications for **iOS & Android** using React Native & Expo
 - Full-stack web development with **React.js**, **Node.js**, and **Express**
 - Database experience with **MongoDB** and **PostgreSQL**
