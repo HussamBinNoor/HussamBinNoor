@@ -19,13 +19,14 @@
 - Database experience with **MongoDB** and **PostgreSQL**
 - Experienced with **Xcode & Swift** (iOS) and **Android Studio & Gradle** (Android)
 - Shipped multiple applications to **App Store & Google Play**
-- BS Software Engineering — Superior University Lahore (2018–2022)
+- BS Software Engineering - Superior University Lahore (2018–2022)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Mobile Development
+
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-020202?style=flat&logo=expo&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
@@ -34,25 +35,30 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
 ### Web Development
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=api&logoColor=white)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### State Management
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-000000?style=flat&logoColor=white)
 
 ### Services & Integrations
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Agora](https://img.shields.io/badge/Agora-RTS-000000?style=flat&logo=agora&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=stripe&logoColor=white)
@@ -62,14 +68,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Flowz** | Fintech app for Stock/ETF trading with dynamic graphs & multi-language support | React Native, Redux, Charts |
-| **Fintech Ecosystem** | Large-scale ecosystem: 4 mobile apps + 5 web applications | React Native, React.js, GraphQL |
-| **Nutrition Coach** | Video calling app with Agora integration | React Native, Agora SDK |
-| **Veriscan** | Product verification using QR & NFC technology | React Native, QR/NFC |
-| **FDS** | Delivery app with real-time tracking & geolocation | React Native, Socket.io, Maps |
-| **FlowCart** | Family grocery shopping with real-time collaboration | React Native, Firebase |
+| Project               | Description                                                                    | Technologies                    |
+| --------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
+| **Flowz**             | Fintech app for Stock/ETF trading with dynamic graphs & multi-language support | React Native, Redux, Charts     |
+| **Fintech Ecosystem** | Large-scale ecosystem: 4 mobile apps + 5 web applications                      | React Native, React.js, GraphQL |
+| **Nutrition Coach**   | Video calling app with Agora integration                                       | React Native, Agora SDK         |
+| **Veriscan**          | Product verification using QR & NFC technology                                 | React Native, QR/NFC            |
+| **FDS**               | Delivery app with real-time tracking & geolocation                             | React Native, Socket.io, Maps   |
+| **FlowCart**          | Family grocery shopping with real-time collaboration                           | React Native, Firebase          |
 
 ---
 
@@ -99,6 +105,7 @@
 ---
 
 ---
+
 <p align="center">
   <img src="./images/bottom.svg" alt="bottom">
 </p>
