@@ -6,6 +6,7 @@
   <a href="https://github.com/hussambinnoor"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://gitlab.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://www.linkedin.com/in/hussam-bin-noor-542193215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hussambinnoor.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
@@ -88,6 +89,7 @@
   <a href="https://www.linkedin.com/in/hussam-bin-noor-542193215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hussambinnoor"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://gitlab.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="https://hussambinnoor.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
@@ -107,5 +109,5 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-React%20Native-61DAFB?style=for-the-badge&logo=react" alt="Made with React Native"/>
-  <img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge&logo=coffeescript" alt="Powered by Coffee"/>
+  <img src="https://img.shields.io/badge/iOS%20&%20Android-App%20Store%20Ready-007AFF?style=for-the-badge" alt="App Store Ready"/>
 </p>
