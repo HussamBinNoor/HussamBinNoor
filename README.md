@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/hussambinnoor"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="https://gitlab.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
   <a href="https://www.linkedin.com/in/hussam-bin-noor-542193215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
@@ -72,19 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussambinnoor&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0+-blue?style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Repositories-6+-green?style=flat" alt="Repositories" />
-</p>
-
----
-
 ## 🔭 Currently Working On
 
 - Building production mobile applications with React Native
@@ -100,7 +87,7 @@
   <a href="mailto:hussambinnoor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/hussam-bin-noor-542193215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/hussambinnoor"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
+  <a href="https://gitlab.com/HussamBinNoor"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/></a>
 </p>
 
 <p align="center">
