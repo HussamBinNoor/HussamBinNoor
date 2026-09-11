@@ -96,4 +96,16 @@
 
 ---
 
-<img src="./images/bottom.svg" alt="bottom">
+---
+<p align="center">
+  <img src="./images/bottom.svg" alt="bottom">
+</p>
+
+<p align="center">
+  ⭐️ Built with ❤️ by <a href="https://github.com/hussambinnoor">HussamBinNoor</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-React%20Native-61DAFB?style=for-the-badge&logo=react" alt="Made with React Native"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge&logo=coffeescript" alt="Powered by Coffee"/>
+</p>
