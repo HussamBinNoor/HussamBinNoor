@@ -71,7 +71,7 @@
 | Project               | Description                                                                    | Technologies                    |
 | --------------------- | ------------------------------------------------------------------------------ | ------------------------------- |
 | **Flowz**             | Fintech app for Stock/ETF trading with dynamic graphs & multi-language support | React Native, Redux, Charts     |
-| **Fintech Ecosystem** | Large-scale ecosystem: 4 mobile apps + 5 web applications                      | React Native, React.js, GraphQL |
+| **Fintech Ecosystem** | Fintech ecosystem with mobile app and web applications                           | React Native, React.js, GraphQL |
 | **Nutrition Coach**   | Video calling app with Agora integration                                       | React Native, Agora SDK         |
 | **Veriscan**          | Product verification using QR & NFC technology                                 | React Native, QR/NFC            |
 | **FDS**               | Delivery app with real-time tracking & geolocation                             | React Native, Socket.io, Maps   |
