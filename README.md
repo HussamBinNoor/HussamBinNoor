@@ -19,6 +19,7 @@
 - Database experience with **MongoDB** and **PostgreSQL**
 - Experienced with **Xcode & Swift** (iOS) and **Android Studio & Gradle** (Android)
 - Shipped multiple applications to **App Store & Google Play**
+- Leverages **AI tools** to accelerate development and deliver faster, reliable solutions
 - BS Software Engineering - Superior University Lahore (2018–2022)
 
 ---
