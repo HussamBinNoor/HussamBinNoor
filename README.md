@@ -88,6 +88,31 @@
 
 ---
 
+## 🤖 AI-Powered Development
+
+- Leverages AI tools to accelerate development cycles without compromising quality
+- Uses AI-assisted code generation for boilerplate and rapid prototyping
+- Implements AI-driven code review to catch bugs early and maintain code quality
+- Utilizes AI for automated testing suggestions and edge case identification
+- Maintains fast and reliable delivery through intelligent workflow automation
+
+---
+
+## 🏗️ Professional Practices
+
+### Code Review
+- Conducts thorough code reviews focusing on readability, performance, and scalability
+- Ensures best practices and coding standards across all deliverables
+- Reviews pull requests for security vulnerabilities and potential improvements
+
+### Team Management
+- Coordinates with cross-functional teams to ensure on-time delivery
+- Manages task prioritization and sprint planning
+- Mentors junior developers and conducts technical sessions
+- Facilitates clear communication between design, backend, and QA teams
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="center">
